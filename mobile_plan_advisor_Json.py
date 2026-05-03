@@ -1,8 +1,8 @@
 
 # ---------------------------------------------------
-# ITECH1400 - Mobile Plan Advisor
-# Student Name: Harmanpreet Kaur.
-# Student ID: 30471465
+#  Mobile Plan Advisor
+#  Name: Harmanpreet Kaur.
+#
 # ---------------------------------------------------
 
 import json 
