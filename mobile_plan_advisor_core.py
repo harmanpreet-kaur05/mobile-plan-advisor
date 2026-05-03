@@ -1,7 +1,6 @@
 # ---------------------------------------------------
 #  Mobile Plan Advisor
 #  Name: Harmanpreet Kaur
-# 
 # ---------------------------------------------------
 
 # STEP 1: Define the plans (hard-coded)
