@@ -16,3 +16,8 @@ This project is a Python program that helps users choose the most cost-effective
 - Using functions, loops, and conditions
 - Handling user input and errors
 - Working with data files
+
+## How to run
+1. Install Python 3
+2. Download the project files
+3. Run: python main.py
