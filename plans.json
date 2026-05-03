@@ -1,0 +1,47 @@
+[
+  {
+    "name": "CellCast",
+    "base_cost": 29.83,
+    "minutes": "Unlimited",
+    "data": 25,
+    "extra_minute_cost": 0.0,
+    "extra_gb_cost": 4.7,
+    "roaming": false
+  },
+  {
+    "name": "PackFinder",
+    "base_cost": 54.47,
+    "minutes": 471,
+    "data": 41,
+    "extra_minute_cost": 0.23,
+    "extra_gb_cost": 1.14,
+    "roaming": true
+  },
+  {
+    "name": "ByteRadar",
+    "base_cost": 44.30,
+    "minutes": "Unlimited",
+    "data": 31,
+    "extra_minute_cost": 0.0,
+    "extra_gb_cost": 3.55,
+    "roaming": false
+  },
+  {
+    "name": "RoamTune",
+    "base_cost": 27.76,
+    "minutes": 474,
+    "data": 18,
+    "extra_minute_cost": 0.12,
+    "extra_gb_cost": 2.38,
+    "roaming": true
+  },
+  {
+    "name": "RoamBoost",
+    "base_cost": 55.68,
+    "minutes": "Unlimited",
+    "data": 31,
+    "extra_minute_cost": 0.0,
+    "extra_gb_cost": 2.47,
+    "roaming": false
+  }
+]
