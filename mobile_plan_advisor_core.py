@@ -1,7 +1,7 @@
 # ---------------------------------------------------
-# ITECH1400 - Mobile Plan Advisor
-# Student Name: Harmanpreet Kaur
-# Student ID: 30471465
+#  Mobile Plan Advisor
+#  Name: Harmanpreet Kaur
+# 
 # ---------------------------------------------------
 
 # STEP 1: Define the plans (hard-coded)
